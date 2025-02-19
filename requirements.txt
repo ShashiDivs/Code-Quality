@@ -1,0 +1,9 @@
+streamlit
+radon
+graphviz
+networkx
+pandas
+numpy
+scikit-learn
+flask
+requests
